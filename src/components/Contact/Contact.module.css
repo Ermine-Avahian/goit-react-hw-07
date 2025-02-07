@@ -1,0 +1,20 @@
+.container {
+  border: 2px solid black;
+  border-radius: 4px;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.btnDelete {
+  border: 2px solid gray;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.name i,
+.number i {
+  margin-right: 8px;
+}
+
